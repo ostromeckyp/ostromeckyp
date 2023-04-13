@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Wroclaw PL
+* 🌍  I'm based in Wroclaw, PL
 * 🖥️  See my portfolio at [MyPortfolio](http://linkedin.com)
 * ✉️  You can contact me at [pawel.ostromecki@outlook.com](mailto:pawel.ostromecki@outlook.com)
 * 🧠  I'm learning Algorithms, Data Structures

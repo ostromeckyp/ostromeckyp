@@ -5,9 +5,9 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Wroclaw, PL
-* 🖥️  See my portfolio at [MyPortfolio](http://linkedin.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://ostromecki.dev)
 * ✉️  You can contact me at [pawel.ostromecky@gmail.com](mailto:pawel.ostromecky@gmail.com)
-* 🧠  I'm learning Algorithms, Data Structures
+* 🧠  I'm learning React, React Native
 * 🤝  I'm open to collaborating on all amazing Angular, Vue,js, Nest.js stuff
 * ⚡  Basketball :basketball:  Music :musical_note:  Coffee :coffee:
 

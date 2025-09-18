@@ -9,7 +9,7 @@ Frontend Developer
 * ✉️  You can contact me at [contact@ostromecki.dev](mailto:contact@ostromecki.dev)
 * 🧠  I'm learning Google Cloud
 * 🤝  I'm open to collaborating on all amazing stuff
-* ⚡  Basketball :basketball:  Music :musical_note:  Coffee :coffee:
+* ⚡  Basketball :basketball: Sailing ⛵  Music :musical_note:  Coffee :coffee:
 
 <a href="https://www.twitter.com/ostromeckyp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ostromeckyp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

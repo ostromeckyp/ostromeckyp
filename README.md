@@ -8,7 +8,7 @@ Frontend Developer
 * 🖥️  See my portfolio at [MyPortfolio](https://ostromecki.dev)
 * ✉️  You can contact me at [pawel.ostromecky@gmail.com](mailto:pawel.ostromecky@gmail.com)
 * 🧠  I'm learning Google Cloud
-* 🤝  I'm open to collaborating on all amazing Angular, Vue.js, Nest.js, React, Java, Firease stuff
+* 🤝  I'm open to collaborating on all amazing stuff
 * ⚡  Basketball :basketball:  Music :musical_note:  Coffee :coffee:
 
 <a href="https://www.twitter.com/ostromeckyp" target="_blank" rel="noreferrer"><img

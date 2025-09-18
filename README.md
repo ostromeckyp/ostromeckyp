@@ -25,7 +25,6 @@ src="https://img.shields.io/twitter/follow/ostromeckyp?logo=twitter&style=for-th
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="./ionic.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v138136e2eb30b542aaba1f756fef1bb285a0aca3815d9b3afa69262b01441aa5/firebase/images/lockup.svg" width="116" height="36" alt="Firebase" /></a>
 </p>
 
 ### Socials

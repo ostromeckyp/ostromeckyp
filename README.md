@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Wroclaw, PL
-* 🖥️  See my portfolio at [ostromecki.dev](https://ostromecki.dev)
+* 🖥️  See my website at [ostromecki.dev](https://ostromecki.dev)
 * ✉️  You can contact me at [contact@ostromecki.dev](mailto:contact@ostromecki.dev)
 * 🧠  I'm learning Google Cloud
 * 🤝  I'm open to collaborating on all amazing stuff

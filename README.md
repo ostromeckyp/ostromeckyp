@@ -7,8 +7,8 @@ Frontend Developer
 * 🌍  I'm based in Wroclaw, PL
 * 🖥️  See my portfolio at [MyPortfolio](https://ostromecki.dev)
 * ✉️  You can contact me at [pawel.ostromecky@gmail.com](mailto:pawel.ostromecky@gmail.com)
-* 🧠  I'm learning React, GCP
-* 🤝  I'm open to collaborating on all amazing Angular, Vue.js, Nest.js, Firease and Flutter stuff
+* 🧠  I'm learning Google Cloud
+* 🤝  I'm open to collaborating on all amazing Angular, Vue.js, Nest.js, React, Java, Firease stuff
 * ⚡  Basketball :basketball:  Music :musical_note:  Coffee :coffee:
 
 <a href="https://www.twitter.com/ostromeckyp" target="_blank" rel="noreferrer"><img
@@ -21,10 +21,10 @@ src="https://img.shields.io/twitter/follow/ostromeckyp?logo=twitter&style=for-th
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="./ionic.svg" width="36" height="36" alt="NestJS" /></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" width="36" height="36" alt="Astro" /></a>
 </p>
 
 ### Socials
